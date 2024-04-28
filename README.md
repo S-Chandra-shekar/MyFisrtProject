@@ -1,4 +1,4 @@
 # MyFisrtProject
 This is my first repository
 <br>
-Author - S. Chandrashekar
+Author - S. Chandra shekar
